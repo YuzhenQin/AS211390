@@ -1,0 +1,39 @@
+aut-num:         AS211390
+as-name:         YUZHEN-NETWORK
+remarks:         AS-SET: AS-YUZHEN or AS211390:AS-ALL
+org:             ORG-YN22-RIPE
+sponsoring-org:  ORG-AIL60-RIPE
+remarks:         --- Routing Policies ---
+mp-import:       afi ipv6.unicast from AS211390:AS-TRANSIT accept ANY
+mp-export:       afi ipv6.unicast to AS211390:AS-TRANSIT announce AS211390:AS-ALL
+mp-import:       afi ipv6.unicast from AS211390:AS-PEER accept ANY
+mp-export:       afi ipv6.unicast to AS211390:AS-PEER announce AS211390:AS-ALL
+mp-import:       afi ipv6.unicast from AS211390:AS-CUST accept AS211390:AS-CUST
+mp-export:       afi ipv6.unicast to AS211390:AS-CUST announce ANY
+mp-export:       afi ipv6.unicast to AS211390:AS-FEED announce ANY
+remarks:         --- Routing Policies ---
+admin-c:         NA7916-RIPE
+tech-c:          NA7916-RIPE
+status:          ASSIGNED
+mnt-by:          RIPE-NCC-END-MNT
+mnt-by:          YUZHENQIN-MNT
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+inet6num:        2a12:dd47:f600::/40
+netname:         ca-yn22-20221210
+descr:           Yuzhen Network Block
+country:         CA
+admin-c:         NA7916-RIPE
+tech-c:          NA7916-RIPE
+status:          ALLOCATED-BY-LIR
+mnt-by:          August-MNT
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+org:             ORG-YN22-RIPE
+
+route6:          2a12:dd47:f600::/40
+origin:          AS211390
+mnt-by:          August-MNT
+mnt-by:          Yuzhen-MNT
+source:          RIPE

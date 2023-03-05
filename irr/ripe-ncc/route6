@@ -1,0 +1,1360 @@
+route6:          2a12:dd47:f600::/44
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f610::/44
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f620::/44
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f630::/44
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f640::/44
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f650::/44
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f660::/44
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f670::/44
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f680::/44
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f690::/44
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6a0::/44
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6b0::/44
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6c0::/44
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6d0::/44
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6e0::/44
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6f0::/44
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f600::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f601::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f602::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f603::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f604::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f605::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f606::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f607::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f608::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f609::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f60a::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f60b::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f60c::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f60d::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f60e::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f60f::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f610::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f611::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f612::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f613::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f614::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f615::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f616::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f617::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f618::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f619::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f61a::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f61b::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f61c::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f61d::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f61e::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f61f::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f620::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f621::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f622::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f623::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f624::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f625::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f626::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f627::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f628::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f629::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f62a::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f62b::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f62c::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f62d::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f62e::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f62f::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f630::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f631::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f632::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f633::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f634::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f635::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f636::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f637::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f638::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f639::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f63a::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f63b::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f63c::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f63d::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f63e::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f63f::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f640::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f641::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f642::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f643::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f644::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f645::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f646::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f647::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f648::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f649::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f64a::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f64b::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f64c::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f64d::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f64e::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f64f::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f650::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f651::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f652::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f653::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f654::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f655::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f656::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f657::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f658::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f659::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f65a::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f65b::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f65c::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f65d::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f65e::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f65f::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f660::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f661::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f662::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f663::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f664::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f665::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f666::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f667::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f668::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f669::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f66a::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f66b::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f66c::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f66d::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f66e::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f66f::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f670::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f671::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f672::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f673::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f674::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f675::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f676::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f677::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f678::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f679::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f67a::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f67b::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f67c::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f67d::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f67e::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f67f::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f680::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f681::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f682::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f683::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f684::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f685::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f686::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f687::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f688::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f689::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f68a::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f68b::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f68c::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f68d::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f68e::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f68f::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f690::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f691::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f692::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f693::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f694::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f695::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f696::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f697::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f698::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f699::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f69a::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f69b::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f69c::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f69d::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f69e::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f69f::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6a0::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6a1::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6a2::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6a3::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6a4::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6a5::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6a6::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6a7::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6a8::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6a9::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6aa::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6ab::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6ac::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6ad::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6ae::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6af::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6b0::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6b1::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6b2::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6b3::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6b4::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6b5::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6b6::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6b7::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6b8::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6b9::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6ba::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6bb::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6bc::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6bd::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6be::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6bf::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6c0::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6c1::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6c2::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6c3::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6c4::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6c5::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6c6::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6c7::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6c8::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6c9::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6ca::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6cb::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6cc::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6cd::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6ce::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6cf::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6d0::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6d1::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6d2::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6d3::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6d4::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6d5::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6d6::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6d7::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6d8::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6d9::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6da::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6db::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6dc::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6dd::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6de::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6df::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6e0::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6e1::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6e2::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6e3::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6e4::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6e5::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6e6::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6e7::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6e8::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6e9::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6ea::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6eb::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6ec::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6ed::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6ee::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6ef::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6f0::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6f1::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6f2::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6f3::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6f4::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6f5::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6f6::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6f7::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6f8::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6f9::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6fa::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6fb::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6fc::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6fd::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6fe::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+route6:          2a12:dd47:f6ff::/48
+origin:          AS211390
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+

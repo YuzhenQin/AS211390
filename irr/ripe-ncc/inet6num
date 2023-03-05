@@ -1,0 +1,119 @@
+inet6num:        2a12:dd47:f600::/44
+netname:         YN22-ANYCAST-A
+descr:           Yuzhen Network Anycast
+country:         AQ
+admin-c:         NA7916-RIPE
+tech-c:          NA7916-RIPE
+status:          ALLOCATED-BY-LIR
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+inet6num:        2a12:dd47:f610::/44
+netname:         YN22-APPLICATIONS-A
+descr:           Yuzhen Network Applications
+country:         AQ
+admin-c:         NA7916-RIPE
+tech-c:          NA7916-RIPE
+status:          ALLOCATED-BY-LIR
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+inet6num:        2a12:dd47:f620::/44
+netname:         YN22-NORTH-AMERICA-A
+descr:           Yuzhen Network North America
+country:         AQ
+admin-c:         NA7916-RIPE
+tech-c:          NA7916-RIPE
+status:          ALLOCATED-BY-LIR
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+inet6num:        2a12:dd47:f630::/44
+netname:         YN22-EUROPE-A
+descr:           Yuzhen Network Europe
+country:         AQ
+admin-c:         NA7916-RIPE
+tech-c:          NA7916-RIPE
+status:          ALLOCATED-BY-LIR
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+inet6num:        2a12:dd47:f640::/44
+netname:         YN22-ASIA-PACIFIC-A
+descr:           Yuzhen Network Asia-Pacific
+country:         AQ
+admin-c:         NA7916-RIPE
+tech-c:          NA7916-RIPE
+status:          ALLOCATED-BY-LIR
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+inet6num:        2a12:dd47:f650::/44
+netname:         YN22-US-CUSTOMERS-A
+descr:           HostMasterClub
+country:         US
+admin-c:         NA7916-RIPE
+tech-c:          NA7916-RIPE
+status:          ASSIGNED
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+inet6num:        2a12:dd47:f620::/48
+netname:         YN22-US-NEXTARRAY
+descr:           Yuzhen Network - NextArray
+country:         US
+admin-c:         NA7916-RIPE
+tech-c:          NA7916-RIPE
+status:          ASSIGNED
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+inet6num:        2a12:dd47:f621::/48
+netname:         YN22-US-VULTR
+descr:           Yuzhen Network - Vultr
+country:         US
+admin-c:         NA7916-RIPE
+tech-c:          NA7916-RIPE
+status:          ASSIGNED
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+inet6num:        2a12:dd47:f622::/48
+netname:         YN22-US-AUGUST
+descr:           Yuzhen Network - August
+country:         US
+admin-c:         NA7916-RIPE
+tech-c:          NA7916-RIPE
+status:          ASSIGNED
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+inet6num:        2a12:dd47:f630::/48
+netname:         YN22-DE-XTOM
+descr:           Yuzhen Network - xTom
+country:         DE
+admin-c:         NA7916-RIPE
+tech-c:          NA7916-RIPE
+status:          ASSIGNED
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+inet6num:        2a12:dd47:f631::/48
+netname:         YN22-DE-HE
+descr:           Yuzhen Network - Hurricane Electric
+country:         DE
+admin-c:         NA7916-RIPE
+tech-c:          NA7916-RIPE
+status:          ASSIGNED
+mnt-by:          Yuzhen-MNT
+source:          RIPE
+
+inet6num:        2a12:dd47:f632::/48
+netname:         YN22-GB-IFOG
+descr:           Yuzhen Network - iFog
+country:         GB
+admin-c:         NA7916-RIPE
+tech-c:          NA7916-RIPE
+status:          ASSIGNED
+mnt-by:          Yuzhen-MNT
+source:          RIPE
